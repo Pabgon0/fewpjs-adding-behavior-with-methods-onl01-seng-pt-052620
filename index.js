@@ -27,7 +27,9 @@ class Bird {
   }
   
   speak() {
-    if this.sex === "male"
+    if (this.sex === "male") {
+      
+    }
     
   }
 }
