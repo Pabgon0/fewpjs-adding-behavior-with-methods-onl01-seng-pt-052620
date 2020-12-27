@@ -5,7 +5,7 @@ class Cat {
   }
   
   speak() {
-    return 
+    return ""
   }
 }
 
