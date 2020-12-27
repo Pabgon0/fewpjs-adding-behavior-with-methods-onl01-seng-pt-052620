@@ -4,7 +4,9 @@ class Cat {
     this.sex = sex
   }
   
-  
+  speak() {
+    
+  }
 }
 
 class Dog {
